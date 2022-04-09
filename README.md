@@ -1,4 +1,4 @@
-# QandA
-Q and A
+#FAQ
+
 
 [Demo](https://wajdwael.github.io/QandA/)
